@@ -24,10 +24,3 @@ Como Médico General con especialización en enfermedades crónicas, mi objetivo
 Se compararon dos modelos, siendo el **Random Forest** el ganador con un **Accuracy del 87%**.
 
 Más importante aún, se optimizó el modelo para un escenario clínico, logrando una alta **Precisión (83%)** y **Sensibilidad (83%)**, minimizando así tanto los Falsos Positivos (costos innecesarios) como los Falsos Negativos (riesgo para el paciente).
-
-* 
-
-## Cómo usar este repositorio
-
-1.  El notebook `analisis-cardiaco.ipynb` (o como lo hayas llamado) contiene todo el código desde la limpieza hasta el modelado.
-2.  El archivo `heart_disease_uci.csv` contiene los datos crudos utilizados.
